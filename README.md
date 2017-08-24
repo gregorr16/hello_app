@@ -9,3 +9,4 @@ This is the first application for the
 by [Michael Hartl](http://www.michaelhartl.com/). Hello, world!
 
 ## This update was brought to you be Think Fresh
+Additional updates provided by Gregor Rogers
